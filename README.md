@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adedigba Oluwadarasimi! I'm a young front web developer and Ui/Ux designer.
+- 👋 Hi, I’m Adedigba Oluwadarasimi! I'm a young front web developer.
 - 👀 I’m interested in tech!
-- 🌱 I’m currently learning Ui/Ux design.
+- 🌱 I'm proficient in HTML, CSS, TAILWIND, BOOTSTRAP, JAVASCRIPT, TYPESCRIPT AND REACT.
 - 💞️ I’m looking to collaborate on front-end web projects.
 
 <!---
