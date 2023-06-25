@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adedigba Oluwadarasimi! I'm a young front web developer.
+- 👋 Hi, I’m Adedigba Oluwadarasimi! I'm a young frontend web developer.
 - 👀 I’m interested in tech!
 - 🌱 I'm proficient in HTML, CSS, TAILWIND, BOOTSTRAP, MUi, TYPESCRIPT AND REACT.
 - 💞️ I’m looking to collaborate on front-end web projects.
