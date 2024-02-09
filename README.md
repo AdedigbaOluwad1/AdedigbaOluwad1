@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Adedigba Oluwadarasimi! I'm a young frontend web developer.
+- 👋 Hi, I’m Adedigba Oluwadarasimi! I'm a young mernstack developer.
 - 👀 I’m interested in tech!
-- 🌱 I'm proficient in HTML, CSS, TAILWIND, BOOTSTRAP, MUi, TYPESCRIPT AND REACT.
-- 💞️ I’m looking to collaborate on front-end web projects.
+- 🌱 I'm proficient in HTML, CSS, TAILWIND, BOOTSTRAP, MUi, TYPESCRIPT, REACT, EXPRESS AND NODE.JS
+- 💞️ I’m looking to collaborate on web projects.
 
 <!---
 AdedigbaOluwad1/AdedigbaOluwad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
